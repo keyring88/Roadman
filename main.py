@@ -10,6 +10,8 @@ def randnum(fname):
 	return random.choice(lines)
 
 
+
+
 client = discord.Client()
 
 @client.event
